@@ -1,6 +1,6 @@
-# Succinct Labs Take Home
+# Simple Message Relayer
 
-https://hackmd.io/@succinctlabs/By1AQdDBo
+A simple message relayer between Görli and Gnosis chain
 
 ## Solution
 
