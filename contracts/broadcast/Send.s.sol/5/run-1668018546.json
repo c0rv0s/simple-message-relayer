@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": "Counter",
+      "contractAddress": "0xb83D12206fA955398b9260757133326FF66A5F8A",
+      "function": "send()",
+      "arguments": [],
+      "transaction": {
+        "type": "0x02",
+        "from": "0x70997970c51812dc3a010c7d01b50e0d17dc79c8",
+        "to": "0xb83d12206fa955398b9260757133326ff66a5f8a",
+        "gas": "0xac33",
+        "value": "0x0",
+        "data": "0xb46300ec",
+        "nonce": "0x2b0",
+        "accessList": []
+      },
+      "additionalContracts": []
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [],
+  "path": "/Users/nate/Desktop/succinct/contracts/broadcast/Send.s.sol/5/run-latest.json",
+  "returns": {},
+  "timestamp": 1668018546,
+  "commit": "fda4257"
+}
